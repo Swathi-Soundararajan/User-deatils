@@ -1,0 +1,14 @@
+.root {
+  width: "100%";
+  margin-top: 125px;
+  overflow: 'auto';
+}
+
+#root{
+  height:100%;
+}
+
+.customTable{
+  height: 100vh;
+  border-radius: 0px!important;
+}
